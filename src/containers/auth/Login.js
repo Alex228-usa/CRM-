@@ -86,7 +86,7 @@ export const LogIn = () => {
           <div
             className='register-ad-text'
           >
-            <h3>Welcome to BottleCRM</h3>
+            <h3>Welcome to Beauty salon</h3>
             <p>
               Lorem ipsum dolor, sit amet consectetur adipisicing elit.
               <br />Sunt
