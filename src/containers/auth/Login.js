@@ -98,7 +98,7 @@ export const LogIn = () => {
               className='register-ad-image'
             />
             <footer className='register-footer'>
-              www.bottlecrm.com | About Us | Contact Us
+             Beauty salon
             </footer>
           </div>
         </Grid>
