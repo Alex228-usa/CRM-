@@ -62,7 +62,7 @@ export const Registration = () => {
             className='register-ad-bg-image'
           />
           <div className='register-ad-text'>
-            <h3>Welcome to BottleCRM</h3>
+            <h3>Welcome to Beauty salon</h3>
             <p>
               Lorem ipsum dolor, sit amet consectetur adipisicing elit.
               <br />Sunt
@@ -74,7 +74,7 @@ export const Registration = () => {
               className='register-ad-image'
             />
             <footer className='register-footer'>
-              www.bottlecrm.com | About Us | Contact Us
+             Beauty salon
             </footer>
           </div>
         </Grid>
